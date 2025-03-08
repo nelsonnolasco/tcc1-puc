@@ -1,5 +1,7 @@
 # Fichamento do Artigo
 
+- Naur, Peter; Randell, Brian (1969). Software Engineering: Report on a conference sponsored by the NATO Science Committee. NATO Science Committee.
+
 ## 1. Fichamento de Conteúdo
 
 O relatório da NATO Software Engineering Conference, realizada em Garmisch, Alemanha, de 7 a 11 de outubro de 1968, é um dos documentos pioneiros no campo da engenharia de software. Ele reúne as discussões e os debates de mais de cinquenta especialistas de onze países, abordando desde a relação entre software e hardware até os desafios de design, produção e manutenção de sistemas complexos. O relatório enfatiza a necessidade de desenvolver métodos sistemáticos para a criação e evolução de software, destacando questões como a confiabilidade, o gerenciamento de grandes projetos e os impactos econômicos e sociais dos sistemas computacionais. Além disso, o documento reflete sobre a importância do feedback durante o desenvolvimento e como a separação entre as fases de design e produção pode – ou não – influenciar a qualidade do produto final. Com uma combinação de citações diretas e resumos das discussões, o relatório oferece uma visão histórica das dificuldades e dos desafios que moldaram os fundamentos da engenharia de software.

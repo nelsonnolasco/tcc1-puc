@@ -6,8 +6,6 @@
 
 2. Fichamento-ListaBase20 - Did You Miss My Comment or What - Understanding Toxicity in Open Source Discussions
 
-
-
 ###### **Artigos selecionados:**
 
 1. F. Meawad, "In the Footsteps of a Professional Software Engineer: Exploring Role-Play in Teaching Software Design," *2024 36th International Conference on Software Engineering Education and Training (CSEE&T)*, Würzburg, Germany, 2024, pp. 1-10, doi: 10.1109/CSEET62301.2024.10663033 - [Portal .periodicos. CAPES - Portal .periodicos. CAPES](https://ieeexplore-ieee-org.ez93.periodicos.capes.gov.br/document/10663033)
@@ -41,3 +39,5 @@
 15. C. Doungsa-ard and V. Chaiwon, "The Software Engineering Position Mapping From Personality Traits," *2020 Joint International Conference on Digital Arts, Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunications Engineering (ECTI DAMT & NCON)*, Pattaya, Thailand, 2020, pp. 194-199, doi: 10.1109/ECTIDAMTNCON48261.2020.9090730. - https://ieeexplore.ieee.org/document/9090730
 
 16. A. Wang, X. Li and Y. Chen, "The study on competency characteristic of JAVA software engineer of the Internet enterprise," *2015 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)*, Singapore, 2015, pp. 1865-1868, doi: 10.1109/IEEM.2015.7385971. - https://ieeexplore.ieee.org/document/7385971
+
+17. - Naur, Peter; Randell, Brian (1969). Software Engineering: Report on a conference sponsored by the NATO Science Committee. NATO Science Committee.
