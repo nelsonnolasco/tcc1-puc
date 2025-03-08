@@ -41,3 +41,5 @@
 16. A. Wang, X. Li and Y. Chen, "The study on competency characteristic of JAVA software engineer of the Internet enterprise," *2015 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)*, Singapore, 2015, pp. 1865-1868, doi: 10.1109/IEEM.2015.7385971. - https://ieeexplore.ieee.org/document/7385971
 
 17. Naur, Peter; Randell, Brian (1969). Software Engineering: Report on a conference sponsored by the NATO Science Committee. NATO Science Committee. - https://dl.acm.org/doi/10.5555/1102020
+
+18. B. Randell. 1979. Software engineering in 1968. In Proceedings of the 4th international conference on Software engineering (ICSE '79). IEEE Press, 1–10. - https://dl.acm.org/doi/10.5555/800091.802915
